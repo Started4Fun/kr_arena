@@ -3,3 +3,11 @@ node_modules/
 data/state.json
 data/state.json.tmp
 npm-debug.log*
+
+# The Discord bot runs locally and is intentionally not published in this Pages repository.
+.env.example
+package.json
+package-lock.json
+src/
+test/
+data/
